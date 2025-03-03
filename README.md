@@ -28,7 +28,7 @@ The **ServerSwitcher Plugin** is a Bukkit/Spigot/Paper plugin that enables serve
 ## Dependencies  
 - Requires either a **BungeeCord** or **Velocity** proxy setup.  
 - Compatible with **Bukkit/Spigot/Paper** servers.
-
-  # THIS IS NOT A PROXY PLUGIN, IT IS ONLY TO BE RUN ON THE BACKEND!
-
 ---
+
+# THIS IS NOT A PROXY PLUGIN, IT IS ONLY TO BE RUN ON THE BACKEND!
+
