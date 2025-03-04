@@ -1,0 +1,14 @@
+name: ServerSwitcher
+version: 1.0
+author: "TNJS"
+main: com.example.serverSwitcher.ServerSwitcherPlugin
+api-version: 1.20
+commands:
+  sendto:
+    description: Send a player to another server.
+    usage: /sendto <player> <server>
+    permission: serverswitcher.sendto
+permissions:
+  serverswitcher.sendto:
+    description: Allows the use of the /sendto command.
+    default: op
