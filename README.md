@@ -3,6 +3,7 @@
  <p align="center">
   <img src="https://raw.githubusercontent.com/ItsTNJS/ServerSwitcher/refs/heads/master/icon.jpg?raw=true" alt="Sublime's custom image"/>
 </p>
+
 # ServerSwitcher Plugin  
 
 ## About  
