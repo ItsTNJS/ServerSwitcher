@@ -6,6 +6,8 @@
 
 # ServerSwitcher Plugin  
 
+Join the support discord - https://dsc.gg/mosaic
+
 ## About  
 The **ServerSwitcher Plugin** is a Bukkit/Spigot/Paper plugin that enables server administrators and other plugins to send players to different **BungeeCord** or **Velocity**-connected servers. Since the backend server and plugins on it typically do not have access to the `/server` command , this plugin provides an alternative method for transferring players between servers using a command and the plugin messaging channel.  
 
